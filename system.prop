@@ -30,3 +30,9 @@ ro.recovery.ui.margin_height=48
 
 # WiFi
 wifi.interface=wlan0
+
+# PixelCore Props
+ro.pixelcore.soc=Snapdragon® 8s Gen 3
+ro.pixelcore.battery=5000 mAh
+ro.pixelcore.display=1220 x 2712, 120 Hz
+ro.pixelcore.camera=50 MP + 8MP | 20MP
